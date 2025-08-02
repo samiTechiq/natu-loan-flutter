@@ -9,9 +9,9 @@ class AppConstants {
   static const String settingsKey = 'app_settings';
 
   // API Constants
-  static const String baseUrl = 'https://bank-payment.natuworkspace.xyz/api';
+  static const String baseUrl = 'https://loan.natuworkspace.xyz/api';
   static const String emulatorUrl = 'http://10.0.2.2:8000/api';
-  static const String assetUrl = 'https://bank-payment.natuworkspace.xyz';
+  static const String assetUrl = 'https://loan.natuworkspace.xyz';
   static const int timeoutDuration = 30000; // 30 seconds
 
   // API Endpoints
